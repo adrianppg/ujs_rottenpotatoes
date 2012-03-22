@@ -1,0 +1,1285 @@
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"params"=>{"search_terms"=>"hardware"}}
+Completed 500 Internal Server Error in 21ms
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"params"=>{"search_terms"=>"hardware"}}
+Completed 500 Internal Server Error in 0ms
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"params"=>{"search_terms"=>"hardware"}}
+Completed 500 Internal Server Error in 18ms
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"params"=>{"search_terms"=>"hardware"}}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.7ms)
+Completed 200 OK in 19ms (Views: 18.8ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"params"=>{"search_terms"=>"hardware"}}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.7ms)
+Completed 200 OK in 18ms (Views: 17.9ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"params"=>{"search_terms"=>"hardware"}}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.6ms)
+Completed 200 OK in 30ms (Views: 30.1ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"params"=>{"search_terms"=>"hardware"}}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.7ms)
+Completed 200 OK in 20ms (Views: 19.7ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"params"=>{"search_terms"=>"hardware"}}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.7ms)
+Completed 200 OK in 21ms (Views: 20.2ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"params"=>{"search_terms"=>"hardware"}}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.7ms)
+Completed 200 OK in 25ms (Views: 24.8ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"params"=>{"search_terms"=>"hardware"}}
+Completed 500 Internal Server Error in 25ms
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"params"=>{"search_string"=>"hardware"}}
+Completed 500 Internal Server Error in 32ms
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"params"=>{"search_terms"=>"hardware"}}
+Completed 500 Internal Server Error in 31ms
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.7ms)
+Completed 200 OK in 20ms (Views: 20.1ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.8ms)
+Completed 200 OK in 26ms (Views: 25.5ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.7ms)
+Completed 200 OK in 23ms (Views: 22.2ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 500 Internal Server Error in 30ms
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.7ms)
+Completed 200 OK in 20ms (Views: 19.8ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 6ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.8ms)
+Completed 200 OK in 26ms (Views: 25.2ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.7ms)
+Completed 200 OK in 82ms (Views: 81.6ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_string"=>"hardware"}
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.9ms)
+Completed 200 OK in 59ms (Views: 58.4ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_string"=>"hardware"}
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.7ms)
+Completed 200 OK in 20ms (Views: 19.2ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 5ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_string"=>"hardware"}
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (2.5ms)
+Completed 200 OK in 24ms (Views: 23.4ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.7ms)
+Completed 200 OK in 20ms (Views: 20.1ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 9ms (Views: 8.2ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.7ms)
+Completed 200 OK in 64ms (Views: 63.2ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_string"=>"hardware"}
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.7ms)
+Completed 200 OK in 84ms (Views: 83.6ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_string"=>"hardware"}
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.8ms)
+Completed 200 OK in 24ms (Views: 23.1ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 2ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_string"=>"hardware"}
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.7ms)
+Completed 200 OK in 25ms (Views: 24.9ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_string"=>"hardware"}
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.9ms)
+Completed 200 OK in 20ms (Views: 19.2ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_string"=>"hardware"}
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.9ms)
+Completed 200 OK in 29ms (Views: 28.6ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (1.0ms)
+Completed 200 OK in 21ms (Views: 20.1ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 2ms (Views: 2.2ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.8ms)
+Completed 200 OK in 21ms (Views: 20.4ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.9ms)
+Completed 200 OK in 86ms (Views: 86.1ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 2ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.7ms)
+Completed 200 OK in 26ms (Views: 25.4ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.9ms)
+Completed 200 OK in 27ms (Views: 26.3ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 5ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.9ms)
+Completed 200 OK in 28ms (Views: 27.7ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.7ms)
+Completed 200 OK in 24ms (Views: 23.6ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.9ms)
+Completed 200 OK in 31ms (Views: 30.7ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.9ms)
+Completed 200 OK in 26ms (Views: 25.6ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (2.7ms)
+Completed 200 OK in 27ms (Views: 26.9ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 2ms (Views: 2.2ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (1.0ms)
+Completed 200 OK in 32ms (Views: 31.5ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (0.9ms)
+Completed 200 OK in 27ms (Views: 26.7ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (1.0ms)
+Completed 200 OK in 22ms (Views: 21.3ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 2ms (Views: 2.2ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (1.2ms)
+Completed 200 OK in 75ms (Views: 74.5ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 10:08:43 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (6.7ms)
+Completed 200 OK in 112ms (Views: 110.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 10:09:26 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (6.7ms)
+Completed 200 OK in 108ms (Views: 106.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/movies/new" for 127.0.0.1 at 2011-12-17 10:09:26 -0800
+  Processing by MoviesController#new as HTML
+Rendered movies/new.html.haml within layouts/application (20.6ms)
+Completed 200 OK in 25ms (Views: 24.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 10:49:50 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.2ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (5.9ms)
+Completed 200 OK in 94ms (Views: 92.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/movies/new" for 127.0.0.1 at 2011-12-17 10:49:51 -0800
+  Processing by MoviesController#new as HTML
+Rendered movies/new.html.haml within layouts/application (19.5ms)
+Completed 200 OK in 24ms (Views: 23.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/movies" for 127.0.0.1 at 2011-12-17 10:49:51 -0800
+  Processing by MoviesController#create as HTML
+  Parameters: {"utf8"=>"✓", "movie"=>{"title"=>"Men In Black", "rating"=>"PG-13", "release_date(1i)"=>"2011", "release_date(2i)"=>"12", "release_date(3i)"=>"17"}, "commit"=>"Save Changes"}
+  [1m[35m (0.6ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (33.8ms)[0m  [1mINSERT INTO "movies" ("created_at", "description", "rating", "release_date", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?)[0m  [["created_at", Sat, 17 Dec 2011 18:49:51 UTC +00:00], ["description", nil], ["rating", "PG-13"], ["release_date", Sat, 17 Dec 2011 00:00:00 UTC +00:00], ["title", "Men In Black"], ["updated_at", Sat, 17 Dec 2011 18:49:51 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://www.example.com/movies
+Completed 302 Found in 51ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 10:49:51 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.1ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (4.4ms)
+Completed 200 OK in 7ms (Views: 6.6ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:02:02 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (10.0ms)
+Completed 500 Internal Server Error in 109ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:02:02 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.2ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (3.1ms)
+Completed 500 Internal Server Error in 5ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:02:18 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (10.3ms)
+Completed 500 Internal Server Error in 107ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:02:18 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.3ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (14.3ms)
+Completed 500 Internal Server Error in 17ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:02:34 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (10.0ms)
+Completed 500 Internal Server Error in 106ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:02:34 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.3ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (4.2ms)
+Completed 500 Internal Server Error in 6ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:02:55 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (10.9ms)
+Completed 500 Internal Server Error in 111ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:02:56 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.3ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (3.2ms)
+Completed 500 Internal Server Error in 7ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:03:17 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (10.4ms)
+Completed 500 Internal Server Error in 109ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:03:17 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.3ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (4.9ms)
+Completed 500 Internal Server Error in 7ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:03:33 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (9.8ms)
+Completed 500 Internal Server Error in 109ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:03:34 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.4ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (11.4ms)
+Completed 500 Internal Server Error in 14ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:03:50 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (10.1ms)
+Completed 500 Internal Server Error in 108ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:03:50 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.2ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (20.8ms)
+Completed 500 Internal Server Error in 47ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:04:06 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (10.0ms)
+Completed 500 Internal Server Error in 107ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:04:06 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.3ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (3.3ms)
+Completed 500 Internal Server Error in 7ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:04:21 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (10.3ms)
+Completed 500 Internal Server Error in 107ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:04:22 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.2ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (56.0ms)
+Completed 500 Internal Server Error in 59ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:04:44 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (10.0ms)
+Completed 500 Internal Server Error in 108ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:04:44 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.2ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (3.2ms)
+Completed 500 Internal Server Error in 5ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:05:01 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (10.3ms)
+Completed 500 Internal Server Error in 107ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:05:01 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.2ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (8.4ms)
+Completed 500 Internal Server Error in 11ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:07:23 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (10.2ms)
+Completed 500 Internal Server Error in 109ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:07:23 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.2ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (3.1ms)
+Completed 500 Internal Server Error in 5ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:13:20 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (9.8ms)
+Completed 500 Internal Server Error in 109ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:13:21 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.4ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (3.4ms)
+Completed 500 Internal Server Error in 6ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:13:36 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (10.0ms)
+Completed 500 Internal Server Error in 107ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:13:36 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.2ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (3.1ms)
+Completed 500 Internal Server Error in 8ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:13:52 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (10.3ms)
+Completed 500 Internal Server Error in 109ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:13:52 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.3ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (4.1ms)
+Completed 500 Internal Server Error in 6ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:14:08 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (10.0ms)
+Completed 500 Internal Server Error in 107ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:14:08 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.3ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (23.9ms)
+Completed 500 Internal Server Error in 28ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:14:23 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (10.3ms)
+Completed 500 Internal Server Error in 108ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:14:24 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (1.7ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (3.4ms)
+Completed 500 Internal Server Error in 7ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:14:39 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (10.5ms)
+Completed 500 Internal Server Error in 107ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:14:39 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.2ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (3.0ms)
+Completed 500 Internal Server Error in 5ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:14:55 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (10.1ms)
+Completed 500 Internal Server Error in 111ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:14:55 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.2ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (4.3ms)
+Completed 500 Internal Server Error in 7ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:15:10 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (10.1ms)
+Completed 500 Internal Server Error in 109ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:15:11 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.3ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (13.4ms)
+Completed 500 Internal Server Error in 19ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:15:27 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (10.2ms)
+Completed 500 Internal Server Error in 111ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:15:49 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (10.0ms)
+Completed 500 Internal Server Error in 108ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:15:49 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.2ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (3.2ms)
+Completed 500 Internal Server Error in 5ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:18:11 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (10.7ms)
+Completed 500 Internal Server Error in 108ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:18:12 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.2ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (2.9ms)
+Completed 500 Internal Server Error in 5ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:18:54 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (9.3ms)
+Completed 200 OK in 113ms (Views: 111.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/movies/new" for 127.0.0.1 at 2011-12-17 11:18:54 -0800
+  Processing by MoviesController#new as HTML
+Rendered movies/new.html.haml within layouts/application (20.0ms)
+Completed 200 OK in 24ms (Views: 23.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/movies" for 127.0.0.1 at 2011-12-17 11:18:54 -0800
+  Processing by MoviesController#create as HTML
+  Parameters: {"utf8"=>"✓", "movie"=>{"title"=>"Men In Black", "rating"=>"PG-13", "release_date(1i)"=>"2011", "release_date(2i)"=>"12", "release_date(3i)"=>"17"}, "commit"=>"Save Changes"}
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (75.8ms)[0m  [1mINSERT INTO "movies" ("created_at", "description", "rating", "release_date", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?)[0m  [["created_at", Sat, 17 Dec 2011 19:18:54 UTC +00:00], ["description", nil], ["rating", "PG-13"], ["release_date", Sat, 17 Dec 2011 00:00:00 UTC +00:00], ["title", "Men In Black"], ["updated_at", Sat, 17 Dec 2011 19:18:54 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://www.example.com/movies
+Completed 302 Found in 161ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:18:55 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.2ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (4.4ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:18:55 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.3ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (2.3ms)
+Completed 200 OK in 6ms (Views: 4.5ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:19:53 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (9.1ms)
+Completed 200 OK in 112ms (Views: 110.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:20:44 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.2ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (8.1ms)
+Completed 200 OK in 97ms (Views: 95.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/movies/new" for 127.0.0.1 at 2011-12-17 11:20:44 -0800
+  Processing by MoviesController#new as HTML
+Rendered movies/new.html.haml within layouts/application (17.4ms)
+Completed 200 OK in 21ms (Views: 20.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/movies" for 127.0.0.1 at 2011-12-17 11:20:44 -0800
+  Processing by MoviesController#create as HTML
+  Parameters: {"utf8"=>"✓", "movie"=>{"title"=>"Men In Black", "rating"=>"PG-13", "release_date(1i)"=>"2011", "release_date(2i)"=>"12", "release_date(3i)"=>"17"}, "commit"=>"Save Changes"}
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (102.0ms)[0m  [1mINSERT INTO "movies" ("created_at", "description", "rating", "release_date", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?)[0m  [["created_at", Sat, 17 Dec 2011 19:20:44 UTC +00:00], ["description", nil], ["rating", "PG-13"], ["release_date", Sat, 17 Dec 2011 00:00:00 UTC +00:00], ["title", "Men In Black"], ["updated_at", Sat, 17 Dec 2011 19:20:44 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://www.example.com/movies
+Completed 302 Found in 121ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:20:45 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.1ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (4.4ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:20:45 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.2ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (2.4ms)
+Completed 200 OK in 6ms (Views: 4.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:22:18 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (9.0ms)
+Completed 200 OK in 112ms (Views: 110.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:23:02 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (9.5ms)
+Completed 200 OK in 116ms (Views: 114.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:23:26 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (9.6ms)
+Completed 200 OK in 114ms (Views: 112.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:24:55 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (9.5ms)
+Completed 200 OK in 114ms (Views: 112.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/movies/new" for 127.0.0.1 at 2011-12-17 11:24:56 -0800
+  Processing by MoviesController#new as HTML
+Rendered movies/new.html.haml within layouts/application (19.5ms)
+Completed 200 OK in 24ms (Views: 23.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/movies" for 127.0.0.1 at 2011-12-17 11:24:56 -0800
+  Processing by MoviesController#create as HTML
+  Parameters: {"utf8"=>"✓", "movie"=>{"title"=>"Men In Black", "rating"=>"PG-13", "release_date(1i)"=>"2011", "release_date(2i)"=>"12", "release_date(3i)"=>"17"}, "commit"=>"Save Changes"}
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (33.8ms)[0m  [1mINSERT INTO "movies" ("created_at", "description", "rating", "release_date", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?)[0m  [["created_at", Sat, 17 Dec 2011 19:24:56 UTC +00:00], ["description", nil], ["rating", "PG-13"], ["release_date", Sat, 17 Dec 2011 00:00:00 UTC +00:00], ["title", "Men In Black"], ["updated_at", Sat, 17 Dec 2011 19:24:56 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://www.example.com/movies
+Completed 302 Found in 119ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:24:56 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.1ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (5.6ms)
+Completed 200 OK in 9ms (Views: 8.3ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:24:56 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.3ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (2.3ms)
+Completed 200 OK in 6ms (Views: 4.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:25:53 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.2ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (9.3ms)
+Completed 200 OK in 99ms (Views: 97.6ms | ActiveRecord: 0.2ms)
+
+
+Started POST "/movies/search_tmdb" for 127.0.0.1 at 2011-12-17 11:25:54 -0800
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:28:44 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (9.9ms)
+Completed 200 OK in 118ms (Views: 116.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/movies/new" for 127.0.0.1 at 2011-12-17 11:28:44 -0800
+  Processing by MoviesController#new as HTML
+Rendered movies/new.html.haml within layouts/application (19.4ms)
+Completed 200 OK in 23ms (Views: 23.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/movies" for 127.0.0.1 at 2011-12-17 11:28:45 -0800
+  Processing by MoviesController#create as HTML
+  Parameters: {"utf8"=>"✓", "movie"=>{"title"=>"Men In Black", "rating"=>"PG-13", "release_date(1i)"=>"2011", "release_date(2i)"=>"12", "release_date(3i)"=>"17"}, "commit"=>"Save Changes"}
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (32.8ms)[0m  [1mINSERT INTO "movies" ("created_at", "description", "rating", "release_date", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?)[0m  [["created_at", Sat, 17 Dec 2011 19:28:45 UTC +00:00], ["description", nil], ["rating", "PG-13"], ["release_date", Sat, 17 Dec 2011 00:00:00 UTC +00:00], ["title", "Men In Black"], ["updated_at", Sat, 17 Dec 2011 19:28:45 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://www.example.com/movies
+Completed 302 Found in 118ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:28:45 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.1ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (4.4ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:28:45 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.5ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (2.4ms)
+Completed 200 OK in 6ms (Views: 4.4ms | ActiveRecord: 0.5ms)
+
+
+Started POST "/movies/search_tmdb" for 127.0.0.1 at 2011-12-17 11:28:45 -0800
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"utf8"=>"✓", "search_terms"=>"Movie That Does Not Exist", "commit"=>"Search TMDb"}
+Completed 500 Internal Server Error in 3ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:29:08 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (9.7ms)
+Completed 200 OK in 113ms (Views: 111.8ms | ActiveRecord: 0.3ms)
+
+
+Started POST "/movies/search_tmdb" for 127.0.0.1 at 2011-12-17 11:29:08 -0800
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"utf8"=>"✓", "search_terms"=>"Movie That Does Not Exist", "commit"=>"Search TMDb"}
+Redirected to http://www.example.com/movies
+Completed 302 Found in 1ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:29:08 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.3ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (2.3ms)
+Completed 200 OK in 5ms (Views: 4.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:29:43 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (9.5ms)
+Completed 200 OK in 114ms (Views: 112.7ms | ActiveRecord: 0.3ms)
+
+
+Started POST "/movies/search_tmdb" for 127.0.0.1 at 2011-12-17 11:29:44 -0800
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"utf8"=>"✓", "search_terms"=>"Movie That Does Not Exist", "commit"=>"Search TMDb"}
+Redirected to http://www.example.com/movies
+Completed 302 Found in 1ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:29:44 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.2ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (2.2ms)
+Completed 200 OK in 5ms (Views: 4.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:31:41 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (9.5ms)
+ERROR: compiling _app_views_layouts_application_html_haml__851510247_22452700 RAISED /Users/fox/Documents/fox/projects/rottenpotatoes/app/views/layouts/application.html.haml:25: syntax error, unexpected keyword_ensure, expecting $end
+Function body:           def _app_views_layouts_application_html_haml__851510247_22452700(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "layouts/application";_old_output_buffer = @output_buffer;;begin;extend Haml::Helpers;_hamlout = @haml_buffer = Haml::Buffer.new(@haml_buffer, {:autoclose=>["meta", "img", "link", "br", "hr", "input", "area", "param", "col", "base"], :preserve=>["textarea", "pre", "code"], :attr_wrapper=>"'", :ugly=>true, :format=>:html5, :encoding=>"UTF-8", :escape_html=>true, :escape_attrs=>true});_erbout = _hamlout.buffer;__in_erb_template = true;;_hamlout.buffer << "<!DOCTYPE html>\n<html lang='en' xml:lang='en' xmlns='http://www.w3.org/1999/xhtml'>\n<head>\n<title>Rotten Potatoes!</title>\n#{
+
+
+
+_hamlout.format_script_false_false_false_true_false_true_true(( stylesheet_link_tag 'general'
+));}\n</head>\n<body>\n";
+
+
+ if flash[:notice]
+_hamlout.buffer << "<div class='message' id='notice'>\n<p>#{
+_hamlout.format_script_false_true_false_true_false_true_true((flash[:notice]
+));}</p>\n</div>\n";end
+ elseif flash[:warning]
+_hamlout.buffer << "<div class='warning' id='notice'>\n<p>#{_hamlout.format_script_false_true_false_true_false_true_true((flash[:warning]
+));}</p>\n</div>\n";end
+_hamlout.buffer << "<h1>#{_hamlout.format_script_false_true_false_true_false_true_true((link_to 'Rotten Potatoes!', movies_path
+));}</h1>\n<div id='body'>\n";
+ if flash[:notice]
+_hamlout.buffer << "<div id='flash_notice'>#{_hamlout.format_script_false_true_false_true_false_true_true((flash[:notice]
+));}</div>\n"; elsif flash[:error]
+_hamlout.buffer << "<div id='flash_error'>#{_hamlout.format_script_false_true_false_true_false_true_true((flash[:error]
+));}</div>\n";end
+_hamlout.buffer << "#{_hamlout.format_script_false_false_false_true_false_true_true(( yield
+));}\n</div>\n</body>\n</html>\n";::Haml::Util.html_safe(_erbout);ensure;@haml_buffer = @haml_buffer.upper;end;
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+Backtrace: /Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_view/template.rb:282:in `module_eval'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_view/template.rb:282:in `compile'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_view/template.rb:190:in `compile!'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_view/template.rb:143:in `block in render'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/activesupport-3.1.0/lib/active_support/notifications.rb:55:in `instrument'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_view/template.rb:142:in `render'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_view/renderer/template_renderer.rb:52:in `render_with_layout'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_view/renderer/template_renderer.rb:38:in `render_template'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_view/renderer/template_renderer.rb:12:in `block in render'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_view/renderer/abstract_renderer.rb:22:in `wrap_formats'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_view/renderer/template_renderer.rb:9:in `render'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_view/renderer/renderer.rb:36:in `render_template'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_view/renderer/renderer.rb:17:in `render'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/abstract_controller/rendering.rb:120:in `_render_template'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_controller/metal/streaming.rb:250:in `_render_template'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/abstract_controller/rendering.rb:114:in `render_to_body'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_controller/metal/renderers.rb:30:in `render_to_body'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_controller/metal/compatibility.rb:43:in `render_to_body'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/abstract_controller/rendering.rb:99:in `render'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_controller/metal/rendering.rb:16:in `render'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in render'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/activesupport-3.1.0/lib/active_support/core_ext/benchmark.rb:5:in `block in ms'
+/Users/fox/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/1.9.1/benchmark.rb:309:in `realtime'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/activesupport-3.1.0/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_controller/metal/instrumentation.rb:40:in `block in render'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_controller/metal/instrumentation.rb:78:in `cleanup_view_runtime'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/activerecord-3.1.0/lib/active_record/railties/controller_runtime.rb:24:in `cleanup_view_runtime'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_controller/metal/instrumentation.rb:39:in `render'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/abstract_controller/base.rb:167:in `process_action'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_controller/metal/rendering.rb:10:in `process_action'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/activesupport-3.1.0/lib/active_support/callbacks.rb:416:in `_run__218805270__process_action__64243330__callbacks'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/activesupport-3.1.0/lib/active_support/callbacks.rb:386:in `_run_process_action_callbacks'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/activesupport-3.1.0/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/abstract_controller/callbacks.rb:17:in `process_action'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_controller/metal/rescue.rb:17:in `process_action'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/activesupport-3.1.0/lib/active_support/notifications.rb:53:in `block in instrument'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/activesupport-3.1.0/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/activesupport-3.1.0/lib/active_support/notifications.rb:53:in `instrument'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_controller/metal/params_wrapper.rb:201:in `process_action'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/activerecord-3.1.0/lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/abstract_controller/base.rb:121:in `process'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/abstract_controller/rendering.rb:45:in `process'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_controller/metal.rb:193:in `dispatch'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_controller/metal.rb:236:in `block in action'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/routing/route_set.rb:65:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/routing/route_set.rb:65:in `dispatch'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/routing/route_set.rb:29:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/rack-mount-0.8.3/lib/rack/mount/route_set.rb:152:in `block in call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/rack-mount-0.8.3/lib/rack/mount/code_generation.rb:96:in `block in recognize'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/rack-mount-0.8.3/lib/rack/mount/code_generation.rb:75:in `optimized_each'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/rack-mount-0.8.3/lib/rack/mount/code_generation.rb:95:in `recognize'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/rack-mount-0.8.3/lib/rack/mount/route_set.rb:141:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/routing/route_set.rb:531:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/rack-1.3.5/lib/rack/etag.rb:23:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/rack-1.3.5/lib/rack/conditionalget.rb:25:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/head.rb:14:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/flash.rb:243:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/rack-1.3.5/lib/rack/session/abstract/id.rb:195:in `context'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/rack-1.3.5/lib/rack/session/abstract/id.rb:190:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/cookies.rb:326:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/activerecord-3.1.0/lib/active_record/query_cache.rb:62:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/activerecord-3.1.0/lib/active_record/connection_adapters/abstract/connection_pool.rb:477:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/activesupport-3.1.0/lib/active_support/callbacks.rb:392:in `_run_call_callbacks'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/activesupport-3.1.0/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/callbacks.rb:28:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/rack-1.3.5/lib/rack/sendfile.rb:101:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/remote_ip.rb:48:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/show_exceptions.rb:47:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-rails-1.2.1/lib/cucumber/rails/action_controller.rb:10:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/railties-3.1.0/lib/rails/rack/logger.rb:13:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/rack-1.3.5/lib/rack/methodoverride.rb:24:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/rack-1.3.5/lib/rack/runtime.rb:17:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/activesupport-3.1.0/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/rack-1.3.5/lib/rack/lock.rb:15:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/actionpack-3.1.0/lib/action_dispatch/middleware/static.rb:53:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/railties-3.1.0/lib/rails/engine.rb:455:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/rack-1.3.5/lib/rack/urlmap.rb:52:in `block in call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/rack-1.3.5/lib/rack/urlmap.rb:46:in `each'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/rack-1.3.5/lib/rack/urlmap.rb:46:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/rack-test-0.6.1/lib/rack/mock_session.rb:30:in `request'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/rack-test-0.6.1/lib/rack/test.rb:219:in `process_request'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/rack-test-0.6.1/lib/rack/test.rb:57:in `get'
+/Users/fox/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/1.9.1/forwardable.rb:182:in `get'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/capybara-1.1.2/lib/capybara/rack_test/browser.rb:62:in `process'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/capybara-1.1.2/lib/capybara/rack_test/browser.rb:21:in `visit'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/capybara-1.1.2/lib/capybara/rack_test/driver.rb:32:in `visit'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/capybara-1.1.2/lib/capybara/session.rb:157:in `visit'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/capybara-1.1.2/lib/capybara/dsl.rb:161:in `visit'
+/Users/fox/Documents/fox/projects/rottenpotatoes/features/step_definitions/web_steps.rb:45:in `block in <top (required)>'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/core_ext/instance_exec.rb:48:in `instance_exec'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/core_ext/instance_exec.rb:48:in `block in cucumber_instance_exec'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/core_ext/instance_exec.rb:69:in `cucumber_run_with_backtrace_filtering'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/core_ext/instance_exec.rb:36:in `cucumber_instance_exec'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/rb_support/rb_step_definition.rb:62:in `invoke'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/step_match.rb:25:in `invoke'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/step_invocation.rb:59:in `invoke'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/step_invocation.rb:38:in `accept'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/tree_walker.rb:99:in `block in visit_step'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/tree_walker.rb:163:in `broadcast'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/tree_walker.rb:98:in `visit_step'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/step_collection.rb:15:in `block in accept'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/step_collection.rb:14:in `each'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/step_collection.rb:14:in `accept'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/tree_walker.rb:93:in `block in visit_steps'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/tree_walker.rb:163:in `broadcast'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/tree_walker.rb:92:in `visit_steps'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/scenario.rb:55:in `block (2 levels) in accept'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/runtime.rb:80:in `block (2 levels) in with_hooks'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/runtime.rb:96:in `before_and_after'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/runtime.rb:79:in `block in with_hooks'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/runtime/support_code.rb:120:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/runtime/support_code.rb:120:in `block (3 levels) in around'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/language_support/language_methods.rb:9:in `block in around'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/language_support/language_methods.rb:91:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/language_support/language_methods.rb:91:in `execute_around'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/language_support/language_methods.rb:8:in `around'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/runtime/support_code.rb:119:in `block (2 levels) in around'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/runtime/support_code.rb:117:in `call'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/runtime/support_code.rb:117:in `around'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/runtime.rb:91:in `around'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/runtime.rb:78:in `with_hooks'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/scenario.rb:53:in `block in accept'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/scenario.rb:108:in `with_visitor'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/scenario.rb:47:in `accept'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/tree_walker.rb:51:in `block in visit_feature_element'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/tree_walker.rb:163:in `broadcast'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/tree_walker.rb:50:in `visit_feature_element'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/feature.rb:43:in `block in accept'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/feature.rb:42:in `each'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/feature.rb:42:in `accept'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/tree_walker.rb:20:in `block in visit_feature'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/tree_walker.rb:163:in `broadcast'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/tree_walker.rb:19:in `visit_feature'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/features.rb:29:in `block in accept'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/features.rb:17:in `each'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/features.rb:17:in `each'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/features.rb:28:in `accept'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/tree_walker.rb:14:in `block in visit_features'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/tree_walker.rb:163:in `broadcast'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/ast/tree_walker.rb:13:in `visit_features'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/runtime.rb:46:in `run!'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/cli/main.rb:43:in `execute!'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/lib/cucumber/cli/main.rb:20:in `execute'
+/Users/fox/.rvm/gems/ruby-1.9.2-p180/gems/cucumber-1.1.4/bin/cucumber:14:in `<main>'
+Completed 500 Internal Server Error in 115ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:32:19 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (9.6ms)
+Completed 200 OK in 117ms (Views: 115.4ms | ActiveRecord: 0.3ms)
+
+
+Started POST "/movies/search_tmdb" for 127.0.0.1 at 2011-12-17 11:32:20 -0800
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"utf8"=>"✓", "search_terms"=>"Movie That Does Not Exist", "commit"=>"Search TMDb"}
+Redirected to http://www.example.com/movies
+Completed 302 Found in 1ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:32:20 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.2ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (2.2ms)
+Completed 200 OK in 5ms (Views: 4.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:32:35 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (9.5ms)
+Completed 200 OK in 113ms (Views: 111.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/movies/new" for 127.0.0.1 at 2011-12-17 11:32:35 -0800
+  Processing by MoviesController#new as HTML
+Rendered movies/new.html.haml within layouts/application (19.2ms)
+Completed 200 OK in 23ms (Views: 22.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/movies" for 127.0.0.1 at 2011-12-17 11:32:36 -0800
+  Processing by MoviesController#create as HTML
+  Parameters: {"utf8"=>"✓", "movie"=>{"title"=>"Men In Black", "rating"=>"PG-13", "release_date(1i)"=>"2011", "release_date(2i)"=>"12", "release_date(3i)"=>"17"}, "commit"=>"Save Changes"}
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (31.9ms)[0m  [1mINSERT INTO "movies" ("created_at", "description", "rating", "release_date", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?)[0m  [["created_at", Sat, 17 Dec 2011 19:32:36 UTC +00:00], ["description", nil], ["rating", "PG-13"], ["release_date", Sat, 17 Dec 2011 00:00:00 UTC +00:00], ["title", "Men In Black"], ["updated_at", Sat, 17 Dec 2011 19:32:36 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://www.example.com/movies
+Completed 302 Found in 118ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:32:36 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.1ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (5.3ms)
+Completed 200 OK in 8ms (Views: 7.2ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:32:36 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.3ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (2.4ms)
+Completed 200 OK in 9ms (Views: 8.3ms | ActiveRecord: 0.3ms)
+
+
+Started POST "/movies/search_tmdb" for 127.0.0.1 at 2011-12-17 11:32:36 -0800
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"utf8"=>"✓", "search_terms"=>"Movie That Does Not Exist", "commit"=>"Search TMDb"}
+Redirected to http://www.example.com/movies
+Completed 302 Found in 1ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2011-12-17 11:32:36 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.2ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (2.4ms)
+Completed 200 OK in 5ms (Views: 4.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/movies" for 127.0.0.1 at 2012-01-08 10:10:14 -0800
+  Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" [0m
+Rendered movies/index.html.haml within layouts/application (8.3ms)
+Completed 200 OK in 104ms (Views: 102.9ms | ActiveRecord: 0.3ms)
+
+
+Started POST "/movies/search_tmdb" for 127.0.0.1 at 2012-01-08 10:10:14 -0800
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"utf8"=>"✓", "search_terms"=>"Movie That Does Not Exist", "commit"=>"Search TMDb"}
+Redirected to http://www.example.com/movies
+Completed 302 Found in 1ms
+
+
+Started GET "/movies" for 127.0.0.1 at 2012-01-08 10:10:14 -0800
+  Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.1ms)[0m  SELECT "movies".* FROM "movies" 
+Rendered movies/index.html.haml within layouts/application (1.8ms)
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.1ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Completed 500 Internal Server Error in 91ms
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (1.2ms)
+Completed 200 OK in 92ms (Views: 91.5ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (1.6ms)
+Completed 200 OK in 241ms (Views: 240.7ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (1.3ms)
+Completed 200 OK in 92ms (Views: 91.9ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (1.3ms)
+Completed 200 OK in 106ms (Views: 104.9ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (1.2ms)
+Completed 200 OK in 92ms (Views: 91.8ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (1.2ms)
+Completed 200 OK in 90ms (Views: 89.4ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (1.4ms)
+Completed 200 OK in 92ms (Views: 91.4ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (1.2ms)
+Completed 200 OK in 89ms (Views: 88.9ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (1.3ms)
+Completed 200 OK in 105ms (Views: 104.5ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (1.2ms)
+Completed 200 OK in 89ms (Views: 89.1ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (1.7ms)
+Completed 200 OK in 152ms (Views: 151.6ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (1.5ms)
+Completed 200 OK in 188ms (Views: 187.2ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (4.0ms)
+Completed 200 OK in 414ms (Views: 412.9ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (1.4ms)
+Completed 200 OK in 107ms (Views: 106.1ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (1.2ms)
+Completed 200 OK in 92ms (Views: 92.0ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (1.2ms)
+Completed 200 OK in 89ms (Views: 88.2ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (1.2ms)
+Completed 200 OK in 89ms (Views: 88.2ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (1.2ms)
+Completed 200 OK in 93ms (Views: 92.6ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (1.2ms)
+Completed 200 OK in 90ms (Views: 90.1ms | ActiveRecord: 0.0ms)
+  Processing by MoviesController#search_tmdb as HTML
+  Parameters: {"search_terms"=>"hardware"}
+Rendered movies/search_tmdb.html.haml within layouts/application (1.3ms)
+Completed 200 OK in 91ms (Views: 90.6ms | ActiveRecord: 0.0ms)

@@ -1,0 +1,12 @@
+class Movie < ActiveRecord::Base
+  validates_presence_of :title
+  validates_inclusion_of :rating, :in => %w[G PG PG-13 R NC-17]
+  #  %w[] is a shortcut for specifying arrays of strings
+  validate :released_1930_or_later # uses custom validator below
+  @@oldest = Date.parse('1 Jan 1930')
+  def released_1930_or_later
+    # 'self' is the object being validated
+    errors.add(:release_date, 'must be 1930 or later') if
+      release_date < @@oldest
+  end
+end

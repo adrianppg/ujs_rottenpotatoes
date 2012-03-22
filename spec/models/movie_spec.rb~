@@ -1,0 +1,10 @@
+require 'spec_helper'
+
+describe Movie do
+  describe 'searching Tmdb by keyword' do
+    it 'should call Tmdb with title keywords' do
+      TmdbMovie.should_receive(:find).with(hash_including :title => 'Inception')
+      Movie.find_in_tmdb('Inception')
+    end
+  end
+end

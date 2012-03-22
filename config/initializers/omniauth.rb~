@@ -1,0 +1,7 @@
+Rails.application.config.middleware.use OmniAuth::Builder do
+  # replace with YOUR app's 'Consumer key' and 'Consumer secret' from Twitter:
+  # (see dev.twitter.com to setup an app and obtain its key and secret)
+  key = 'YabSXAwwYuSqevvTuCrWEw'
+  secret = '8EZsxnQeFaGq5GfITKVNsyedN4YpGROn1zC04kMR5E'
+  provider :twitter, key, secret
+end

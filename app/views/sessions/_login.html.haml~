@@ -1,0 +1,5 @@
+#login
+  - if current_user
+    %p.welcome Welcome, #{current_user.name}
+  - else
+    %p.login= link_to 'Login with your Twitter account', '/auth/twitter'

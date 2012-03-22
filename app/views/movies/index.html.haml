@@ -1,0 +1,20 @@
+-#  This file is app/views/movies/index.html.haml
+
+= form_tag movies_path, :method => :get, :remote => true do
+  Filter by title:
+  = text_field_tag 'title', params[:title]
+  = submit_tag 'Filter'
+
+%h1 All Movies
+
+%table#movies
+  %thead
+    %tr
+      %th Movie Title
+      %th Rating
+      %th Release Date
+      %th More Info
+  %tbody#movielist
+    = render @movies
+
+= link_to 'Add new movie', new_movie_path
